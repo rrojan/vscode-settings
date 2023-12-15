@@ -1,0 +1,56 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.fontSize": 14,
+  "editor.fontSize": 14,
+  "terminal.integrated.fontFamily": "'Fira Code'",
+  "editor.fontFamily": "'Jetbrains Mono', Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "editor.codeActionsOnSave": {
+    "source.organizeimports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "prettier.semi": false,
+
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "javascript"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "githubPullRequests.fileListLayout": "tree",
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "switch:command"],
+  "githubPullRequests.pullBranch": "never",
+  "diffEditor.ignoreTrimWhitespace": false
+}
